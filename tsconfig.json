@@ -1,0 +1,14 @@
+{
+  "compilerOptions":
+  {
+    "target": "es6", 
+    "module": "commonjs",
+    "outDir": "./Build", 
+    "watch": true,
+    "resolveJsonModule": true,
+    //"sourceMap": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "declaration": true, "emitDecoratorMetadata": true
+  }
+}

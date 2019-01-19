@@ -1,5 +1,7 @@
+//import {IServiceProvider} from "dottype/Interfaces/IServiceProvider"
+
 /** Class that represents a globally unique identifier (GUID) functionality. */
-export class Guid
+export class Guid //implements IServiceProvider
 {
     /** A read-only instance of the Guid structure whose value is all zeros. */
     public static get Empty()

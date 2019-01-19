@@ -1,0 +1,12 @@
+{
+    "name": "dottype",
+    "version": "0.0.12",
+    "description": "Base classes for DotType",
+    "author": "DotType",
+    "license": "Apache-2.0",
+    "repository": 
+    {
+        "type": "git",
+        "url": "git+https://github.com/dottype/DotType.git"
+    }
+}
